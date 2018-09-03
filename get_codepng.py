@@ -4,7 +4,7 @@ time:Sept 2nd,2018
 task：identify captcha
 future work:add more kind of captcha for training set and optimizing the identification algorithm.
 """
-# coding = "utf-8"
+# coding=utf-8
 import glob
 import sys
 import os
